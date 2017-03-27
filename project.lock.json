@@ -15490,10 +15490,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew\\Documents\\Visual Studio 2017\\samples-develop\\HelloWorld\\CS\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\Source\\Repos\\RPi_Win10IoT_Project\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Andrew\\Documents\\Visual Studio 2017\\samples-develop\\HelloWorld\\CS\\HelloWorld.csproj",
-      "projectJsonPath": "C:\\Users\\Andrew\\Documents\\Visual Studio 2017\\samples-develop\\HelloWorld\\CS\\project.json",
+      "projectPath": "C:\\Users\\Andrew\\Source\\Repos\\RPi_Win10IoT_Project\\HelloWorld.csproj",
+      "projectJsonPath": "C:\\Users\\Andrew\\Source\\Repos\\RPi_Win10IoT_Project\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {

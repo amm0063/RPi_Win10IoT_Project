@@ -10,7 +10,7 @@
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>fb811a4f-ce5f-4b9a-ba3c-7c8959ceaf1e</PackageIdentityName>
     <PackageIdentityPublisher>CN=MSFT</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\obj\ARM\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-22T02:31:43.408</Modified>
+      <Modified>2017-03-27T01:42:51.867</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\bin\ARM\Debug\HelloWorld.exe">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\bin\ARM\Debug\HelloWorld.exe">
       <PackagePath>entrypoint\HelloWorld.exe</PackagePath>
-      <Modified>2017-03-22T02:31:38.658</Modified>
+      <Modified>2017-03-27T01:42:50.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andrew\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,59 +448,59 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T04:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-03-21T22:27:37.625</Modified>
+      <Modified>2017-03-27T01:19:00.825</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-03-21T22:27:37.475</Modified>
+      <Modified>2017-03-27T01:19:00.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-21T22:27:37.485</Modified>
+      <Modified>2017-03-27T01:19:00.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-21T22:27:37.518</Modified>
+      <Modified>2017-03-27T01:19:00.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-21T22:27:37.525</Modified>
+      <Modified>2017-03-27T01:19:00.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-21T22:27:37.545</Modified>
+      <Modified>2017-03-27T01:19:00.802</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-21T22:27:37.565</Modified>
+      <Modified>2017-03-27T01:19:00.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2017-03-21T22:27:37.585</Modified>
+      <Modified>2017-03-27T01:19:00.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\bin\ARM\Debug\HelloWorld.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\bin\ARM\Debug\HelloWorld.xr.xml">
       <PackagePath>HelloWorld.xr.xml</PackagePath>
-      <Modified>2017-03-22T02:31:38.258</Modified>
+      <Modified>2017-03-27T01:19:01.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-03-22T01:39:22.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-22T02:31:42.735</Modified>
+      <Modified>2017-03-27T01:42:51.492</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\bin\ARM\Debug\Core\HelloWorld.exe">
+    <AppxPackagedFile Include="C:\Users\Andrew\Source\Repos\RPi_Win10IoT_Project\bin\ARM\Debug\Core\HelloWorld.exe">
       <PackagePath>HelloWorld.exe</PackagePath>
-      <Modified>2017-03-22T02:31:43.385</Modified>
+      <Modified>2017-03-27T01:42:51.849</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -33,5 +33,10 @@ namespace HelloWorld
         {
             HelloMessage.Text = "Hello, Windows 10 IoT Core!";
         }
+
+        private void ShowName_Click(object sender, RoutedEventArgs e)
+        {
+            HelloMessage.Text = "Hi, Andrew McCrabb!";
+        }
     }
 }
