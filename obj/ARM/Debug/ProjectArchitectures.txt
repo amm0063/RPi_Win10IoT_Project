@@ -1,0 +1,1 @@
+C:\Users\Andrew\Documents\Visual Studio 2017\samples-develop\HelloWorld\CS\HelloWorld.csproj;arm
